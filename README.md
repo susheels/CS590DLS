@@ -3,8 +3,7 @@
 
 
 
-This repository contains the code used in [[paper](http://arxiv.org/abs/1806.07336)]:
-> Neural Code Comprehension: A Learnable Representation of Code Semantics, Tal Ben-Nun, Alice Shoshana Jakobovits, Torsten Hoefler
+This repository contains the code used for CS590 DLS project. This project utilizes inst2vec embeddings for source code vulnerablility detection. 
 
 
 ## Code
