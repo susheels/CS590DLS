@@ -3,7 +3,7 @@
 
 
 
-This repository contains the code used for CS590 DLS project. This project utilizes inst2vec embeddings for source code vulnerablility detection. 
+This repository contains the code used for CS590 DLS project. This project utilizes inst2vec embeddings for source code vulnerability detection. 
 
 
 ## Code
