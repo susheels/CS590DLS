@@ -39,7 +39,7 @@ $ python data_download.py
 ```
 
 
-#### 1. `inst2vec` embeddings
+#### 2. `inst2vec` embeddings
 
 One can download the pre-trained embeddings from https://drive.google.com/open?id=1Kmd6AVZQKvfhhmfdCMikzJLQri_J17u6. Place the pretrained files in a folder named pretrained. 
 
